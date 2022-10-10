@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Anshu Kumar</h1>
 <h3 align="center">Student | Developer | Tech Enthusiast</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anshu10997&label=Profile%20views&color=0e75b6&style=flat" alt="anshu10997" /> </p>
+
 
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/828/1*vJjJ3Mdok6Rvxx85IIRqBQ.gif">
 
