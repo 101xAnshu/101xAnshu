@@ -6,7 +6,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/828/1*vJjJ3Mdok6Rvxx85IIRqBQ.gif">
 
-- 🌱 I’m currently learning **Android Development**
+- 🌱 I’m currently learning **Web Development**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
