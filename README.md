@@ -1,7 +1,7 @@
 ![MasterHead](https://github.com/ANSHU10997/Anshu10997/blob/main/new.png)
 <h1 align="center">Hi 👋, I'm Anshu Kumar</h1>
 <h3 align="center">Student | Developer | Tech Enthusiast</h3>
-# 💫 About Me:
+💫 About Me:
 🔭 I’m currently working on MERN Stack Projects<br>👯 I’m looking to collaborate on  Open Source Projects<br>🌱 I’m currently learning Next JS<br>💬 Ask me about MERN<br>⚡ Fun fact 'You won't face errors if you don't write them'<br>📫 How to reach me kumaranshu777777777@gmail.com
 
 
