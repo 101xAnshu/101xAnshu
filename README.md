@@ -1,4 +1,4 @@
-<img align="center" alt="Coding" width="100%" src="https://github.com/ANSHU10997/Anshu10997/blob/main/new.png" />
+<img align="center" alt="Coding" width="100%" src="https://github.com/ANSHU10997/Anshu10997/blob/main/githubbanner.png" />
 <h1 align="center">Hi 👋, I'm Anshu Kumar</h1>
 <h3 align="center">Student | Developer | Tech Enthusiast</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/c76fcba45a168789b763d0b9c4c6cf2a56309d0ed504a03063d2c5ee93cb0cde/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3832382f312a764a6a4a334d646f6b365276787838354949527142512e676966" />
