@@ -1,7 +1,7 @@
 ![MasterHead](https://github.com/ANSHU10997/Anshu10997/blob/main/githubbanner.png)
 <h1 align="center">Hi 👋, I'm Anshu Kumar</h1>
 <h3 align="center">Student | Developer | Tech Enthusiast</h3>
-<img align="right" alt="Coding" width="380" src="https://camo.githubusercontent.com/c76fcba45a168789b763d0b9c4c6cf2a56309d0ed504a03063d2c5ee93cb0cde/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3832382f312a764a6a4a334d646f6b365276787838354949527142512e676966" />
+<img align="right" alt="Coding" width="380" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fbackiee.com%2Fwallpaper%2Ftechsavvy-anime-programmers-haven%2F286745&psig=AOvVaw2BdKugbNNLCyDWkBQoaHxV&ust=1729844826135000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCIi2zKrMpokDFQAAAAAdAAAAABAd" />
 💫 About Me:
 🔭 I’m currently working on MERN Stack Projects<br>👯 I’m looking to collaborate on  Open Source Projects<br>🌱 I’m currently learning Next JS<br>💬 Ask me about MERN<br>⚡ Fun fact 'You won't face errors if you don't write them'<br>📫 How to reach me kumaranshu777777777@gmail.com
 
