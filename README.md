@@ -1,6 +1,6 @@
-![MasterHead](https://github.com/ANSHU10997/Anshu10997/blob/main/githubbanner.png)
+![MasterHead](https://github.com/ANSHU10997/Anshu10997/blob/main/Github-Top.jpeg)
 <h1 align="center">Hi 👋, I'm Anshu Kumar</h1>
-<img align="right" alt="Coding" width="380" src="https://backiee.com/static/wallpapers/1000x563/386745.jpg" />
+<img align="right" alt="Coding" width="380" src="https://github.com/ANSHU10997/Anshu10997/blob/main/Github-.gif" />
 <h3 align="center">Student | Developer | Tech Enthusiast</h3>
 💫 About Me:
 🔭 I’m currently working on MERN Stack Projects<br>👯 I’m looking to collaborate on  Open Source Projects<br>🌱 I’m currently learning Next JS<br>💬 Ask me about MERN<br>⚡ Fun fact 'You won't face errors if you don't write them'<br>📫 How to reach me : Connect on X
