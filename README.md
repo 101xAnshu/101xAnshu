@@ -7,7 +7,7 @@
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/kumar-anshu-/) 
-[![Twitter](https://img.shields.io/badge/Twitter-%231A1A1A.svg?logo=x&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/kumar-anshu-/) 
+[![Twitter](https://img.shields.io/badge/Twitter-%231A1A1A.svg?logo=x&logoColor=white)](https://x.com/101xAnshu/) 
 
 # 💻 Tech Stack:
 <!--
