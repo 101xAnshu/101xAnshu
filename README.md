@@ -6,7 +6,7 @@
 🔭 I’m currently working on MERN Stack Projects<br>👯 I’m looking to collaborate on  Open Source Projects<br>🌱 I’m currently learning Next JS<br>💬 Ask me about MERN<br>⚡ Fun fact 'You won't face errors if you don't write them'<br>📫 How to reach me : Connect on X
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/kumar-anshu-/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]
 [![Twitter](https://img.shields.io/badge/Twitter-%231A1A1A.svg?logo=x&logoColor=white)](https://x.com/101xAnshu/) 
 
 # 💻 Tech Stack:
