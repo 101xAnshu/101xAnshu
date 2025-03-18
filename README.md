@@ -78,7 +78,7 @@
   <table>
     <thead>
       <tr>
-        <th colspan="10" align="center">Backend / Tools</th>
+        <th colspan="9" align="center">Backend / Tools</th>
       </tr>
     </thead>
     <tbody>
@@ -100,12 +100,6 @@
             <img src="https://skillicons.dev/icons?i=mongodb" width="50" height="50" alt="MongoDB" />
           </a>
           <br>MongoDB
-        </td>
-        <td align="center">
-          <a href="https://www.postgresql.org/">
-            <img src="https://skillicons.dev/icons?i=postgres" width="50" height="50" alt="PostgreSQL" />
-          </a>
-          <br>PostgreSQL
         </td>
         <td align="center">
           <a href="https://www.docker.com/">
