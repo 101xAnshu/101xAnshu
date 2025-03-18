@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="380" src="https://github.com/ANSHU10997/Anshu10997/blob/main/Github-.gif" />
 <h3 align="center">Student | Developer | Tech Enthusiast</h3>
 💫 About Me:
-🔭 I’m currently working on MERN Stack Projects<br>👯 I’m looking to collaborate on  Open Source Projects<br>🌱 I’m currently learning Next JS<br>💬 Ask me about MERN<br>⚡ Fun fact 'You won't face errors if you don't write them'<br>📫 How to reach me : Connect on X
+🔭 I’m currently working on MERN Stack Projects<br>👯 I’m looking to collaborate on  Open Source Projects<br>🌱 I’m currently learning Next JS<br>⚡ Fun fact 'You won't face errors if you don't write them'<br>📫 How to reach me : Connect on X
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://hello-stalker.vercel.app)
